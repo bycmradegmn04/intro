@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1
 http://supersonictv.live:8080/glowxtv1/258695/7626
 #EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1 HD
@@ -137,6 +138,7 @@ http://supersonictv.live:8080/glowxtv1/258695/86881
 http://supersonictv.live:8080/glowxtv1/258695/86882
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Premier League backup 04" tvg-logo="" group-title="SUPERSPORTS [AF]",[AF] S Premier League backup 04
 http://supersonictv.live:8080/glowxtv1/258695/86883
+
 
 
 
